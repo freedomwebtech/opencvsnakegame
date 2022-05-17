@@ -6,8 +6,8 @@ import numpy as np
 import random
 import vlc
 detector=HandDetector(detectionCon=0.5,maxHands=1)
-player = vlc.MediaPlayer("/home/pi/Downloads/m.mp3")
-player1 = vlc.MediaPlayer("/home/pi/Downloads/m1.mp3")
+player = vlc.MediaPlayer("/home/pi/opencvsnakegame/m.mp3")
+player1 = vlc.MediaPlayer("/home/pi/opencvsnakegame/m1.mp3")
 
 
      
